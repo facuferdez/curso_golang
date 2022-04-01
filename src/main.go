@@ -50,5 +50,6 @@ func main() {
 
 	fmt.Println("Matriz completa cambiada")
 	fmt.Println(mat)
+	fmt.Println(mat)
 
 }
